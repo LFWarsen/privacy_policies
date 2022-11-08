@@ -1,0 +1,6 @@
+Finandroid Privacy Policy
+
+All data collected by Finandroid is stored locally on the user's device and can be removed by deletion of the app or manually clearing the app's data.
+For this reason requests for deletion of personal information will be ignored.
+
+The only data the app stores on the device is the financial information the user enters for their personal use.
